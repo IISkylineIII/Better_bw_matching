@@ -1,9 +1,12 @@
 # Better_bw_matching
 
+
 # Description
 
 * Python implementation of the Better Burrows-Wheeler Matching algorithm.
 It efficiently finds the number of occurrences of given patterns in a string, using the Burrows-Wheeler Transform (BWT), a fundamental technique in data compression and bioinformatics.
+
+
 
 ```
 
